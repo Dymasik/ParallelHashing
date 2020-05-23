@@ -1,0 +1,4 @@
+﻿  Parallel.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\lenovo\source\repos\parallel\parallel\parallel.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+  Parallel.vcxproj -> C:\Users\Lenovo\source\repos\Parallel\Debug\Parallel.exe
